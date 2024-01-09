@@ -10,7 +10,7 @@
         - 🌱 I’m currently learning cloud computing <br/>
         - 👯 I’m looking to collaborate on Interesting Projects <br/>
         - 🤝 I’m looking for help with <br/>
-        - 📫 To reach me gokulnath.ct20@bitsathy.ac.in <br/>
+        - 📫 To reach me us.gokulnath@gmail.com <br/>
         - ⚡ Fun fact I like to play and watch football and listening songs 🎧 <br/>
 </div>
 
