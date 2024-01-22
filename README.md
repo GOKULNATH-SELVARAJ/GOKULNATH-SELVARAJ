@@ -21,11 +21,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GOKULNATH-SELVARAJ&theme=highcontrast&show_icons=true&count_private=true" />
 </div>
 
-<p align="center" >
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GOKULNATH-SELVARAJ&theme=lowcontrast&show_icons=true&count_private=true" />
-</p>
-
-
 
 
 <!--
