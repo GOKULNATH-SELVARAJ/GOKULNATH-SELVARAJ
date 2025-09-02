@@ -6,7 +6,7 @@
 
 ## 🧰 About Me:
 <div>
-        - 🌱 I’m currently learning cloud computing <br/>
+        - 🌱 I’m Mobile Application Developer <br/>
         - 👯 I’m looking to collaborate on Interesting Projects <br/>
         - 🤝 I’m looking for help with <br/>
         - 📫 To reach me us.gokulnath@gmail.com <br/>
