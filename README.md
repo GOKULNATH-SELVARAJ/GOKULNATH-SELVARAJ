@@ -1,6 +1,5 @@
 <h1 align="center">Hey there, <img width="35px" height="35px" src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" /> I'm Gokulnath S</h1>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=GOKULNATH-SELVARAJ.GOKULNAH-SELVARAJ)
 <br />
 
 <img align="right" alt="coding" width="400" height="250" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
