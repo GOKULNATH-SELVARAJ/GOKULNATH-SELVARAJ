@@ -15,13 +15,6 @@
 
 <br />
 
-<h2 align="left"> 📈 Github stats</h2>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GOKULNATH-SELVARAJ&theme=highcontrast&show_icons=true&count_private=true" />
-</div>
-
-
-
 <!--
 **GOKULNATH-SELVARAJ/GOKULNAH-SELVARAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
