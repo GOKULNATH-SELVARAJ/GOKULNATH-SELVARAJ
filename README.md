@@ -49,4 +49,7 @@
   <a href="https://github.com/GOKULNATH-SELVARAJ">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://gokulnath-selvaraj.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
 </p>
