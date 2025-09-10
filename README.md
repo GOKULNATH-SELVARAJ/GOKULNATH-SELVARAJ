@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Gokulnath S</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/xY0rfGn/react-native-banner.png" alt="React Native Developer Banner" />
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Coding gif"/>
 </p>
 
 ---
@@ -27,12 +27,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOKULNATH-SELVARAJ&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKULNATH-SELVARAJ&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GOKULNATH-SELVARAJ&show_icons=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKULNATH-SELVARAJ&layout=compact&theme=github_dark" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GOKULNATH-SELVARAJ&theme=radical&border_radius=10" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=GOKULNATH-SELVARAJ&theme=github-dark&border_radius=10" height="165"/>
 </p>
 
 ---
