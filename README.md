@@ -1,45 +1,57 @@
-<h1 align="center">Hey there, <img width="35px" height="35px" src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" /> I'm Gokulnath S</h1>
+<h1 align="center">Hey there 👋, I'm Gokulnath S</h1>
 
-<br />
-
-<img align="right" alt="coding" width="400" height="250" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🧰 About Me:
-<div>
-        - 🌱 I’m Mobile Application Developer <br/>
-        - 👯 I’m looking to collaborate on Interesting Projects <br/>
-        - 🤝 I’m looking for help with <br/>
-        - 📫 To reach me us.gokulnath@gmail.com <br/>
-        - ⚡ Fun fact I like to play and watch football and listening songs 🎧 <br/>
-</div>
-
-<br />
-
-<!--
-**GOKULNATH-SELVARAJ/GOKULNAH-SELVARAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://res.cloudinary.com/teepublic/image/private/s--lxNXHPN3--/c_fit,g_north_west,h_840,w_679/co_ffffff,e_outline:40/co_ffffff,e_outline:inner_fill:1/co_ffffff,e_outline:40/co_ffffff,e_outline:inner_fill:1/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1585726530/production/designs/8796655_0.jpg" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Coding gif"/>
+</p>
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://e7.pngegg.com/pngimages/777/431/png-clipart-yellow-and-orange-firebase-logo-icons-logos-emojis-tech-companies.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+---
 
+## 🧑‍💻 About Me
+
+- 🌱 Mobile Application Developer (React Native + Flutter)  
+- 👯 Open to collaborate on **interesting projects & startups**  
+- 🤝 Looking to contribute to **React Native & Open Source communities**  
+- 📫 Reach me at: **us.gokulnath@gmail.com**  
+- ⚡ Fun fact: I love **football ⚽, music 🎧, and building apps that solve real-world problems**  
+
+---
+
+## 🛠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React Native" height="40" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" height="40" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="TypeScript" height="40" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" alt="Redux" height="40" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" alt="Firebase" height="40" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" alt="Flutter" height="40" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" height="40" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux" height="40" style="margin:4px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/vscode/vscode.png" alt="VS Code" height="40" style="margin:4px"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GOKULNATH-SELVARAJ&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKULNATH-SELVARAJ&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="mailto:us.gokulnath@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gokulnath-selvaraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/GOKULNATH-SELVARAJ">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
